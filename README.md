@@ -3,6 +3,7 @@ A template to make firmwares for 3DS. This is based on [SafeB9SInstaller](https:
 
 ## Credits
 * **LumaTeam**, for types, cache.h, cache.s, wait function, some code and functions
+* **d0k3**, for base of template (https://github.com/d0k3/SafeB9SInstaller)
 * **Normmatt**, for sdmmc.c / sdmmc.h
 * **Cha(N)**, **Kane49**, and all other FatFS contributors for FatFS
 * **Myria** for the sighax bruteforcer and for finding the sighax (retail&dev) signature
@@ -14,4 +15,3 @@ A template to make firmwares for 3DS. This is based on [SafeB9SInstaller](https:
 * **Gelex** for being of great help on countless occasions
 * The fine folks on **freenode #Cakey**
 * All **[3dbrew.org](https://www.3dbrew.org/wiki/Main_Page) editors**
-* Everyone I possibly forgot, if you think you deserve to be mentioned, just contact me!
